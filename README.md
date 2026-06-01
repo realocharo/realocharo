@@ -4,16 +4,14 @@
 
 ### 🚀 Developer · Entrepreneur · Nairobi, Kenya 🇰🇪
 
-```javascript
-const realocharo = {
-  role: "Software Developer & Entrepreneur",
-  brands: ["isucluxe", "Dropshipping Store"],
-  stack: ["JavaScript", "Python", "React", "Shopify", "Notion API"],
+
+  Role: Software Developer & Entrepreneur
+  Brands: Isucluxe Dropshipping Store
+  Stack: JavaScript, Python ,React, Shopify, Notion API
   trading: true,
-  location: "Nairobi, Kenya 🇰🇪",
-  status: "🟢 Building in public"
-}
-```
+ 
+
+
 
 ---
 
