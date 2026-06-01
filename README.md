@@ -2,16 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realocharo&color=f0b429&style=flat-square)
 
-### 🚀 Developer · Entrepreneur · Nairobi, Kenya 🇰🇪
-
-
-  Role: Software Developer & Entrepreneur
-  Brands: Isucluxe Dropshipping Store
-  Stack: JavaScript, Python ,React, Shopify, Notion API
-  trading: true,
- 
-
-
+### 🚀 Developer · Entrepreneur · App Developer
 
 ---
 
